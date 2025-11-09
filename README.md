@@ -1,71 +1,40 @@
-# Getting Started with Create React App
+### "# Developpement-Front-End-moderne-avec-React-_TP3" 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### Objectif : 
+ Ce TP propose de mettre en pratique :
+  * le rendu conditionnel avec opérateurs ternaires et logiques,
+  * l’itération avec map(),
+  * la mise en place de la navigation avec React Router,
+  * l’intégration d’images, de médias et de styles CSS.
 
-## Available Scripts
+#### Création du projet 
 
-In the project directory, you can run:
+<img width="959" height="505" alt="TP3REACT ETAPE 1" src="https://github.com/user-attachments/assets/02b7dbeb-6fc4-414d-92f4-9db9954a0976" />
+<img width="959" height="503" alt="TP3REACT ETAPE 1_2" src="https://github.com/user-attachments/assets/61cddef2-573b-42f0-b3fd-4e3c325bb64b" />
+<img width="959" height="474" alt="TP3REACT ETAPE 1_3" src="https://github.com/user-attachments/assets/493a3cbb-c3a7-4cc2-81bd-b246c6f03790" />
 
-### `npm start`
+#### Installation de React Router
+<img width="959" height="503" alt="TP3REACT ETAPE 2" src="https://github.com/user-attachments/assets/6deba6b3-82df-4c8f-a435-e99e7451c0d4" />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+#### Mon application react
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  ##### Page Accueil
+  <img width="959" height="473" alt="TP3REACT ETAPE 3 Page Acceuil" src="https://github.com/user-attachments/assets/a5573e5c-4ca5-40d4-baa9-e37ee62c5d8c" />
+  ##### Page A propos
+<img width="959" height="477" alt="TP3REACT ETAPE 3 Page PROPOS" src="https://github.com/user-attachments/assets/b782c245-76ad-49e0-b233-3b84f4b608c3" />
 
-### `npm test`
+#### Exercices pratiques 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img width="1915" height="948" alt="image" src="https://github.com/user-attachments/assets/75df4f8a-1e0c-4367-a1a7-a297d41addf1" />
 
-### `npm run build`
+<img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/53c29afb-cbc3-49d4-bb40-0e8c3e00b0cd" />
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img width="1919" height="962" alt="image" src="https://github.com/user-attachments/assets/32ada1bf-dbfe-459a-a3fb-cfa54efe6cd6" />
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### Demo video
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+https://github.com/user-attachments/assets/c0c21ada-d24b-40a1-acea-77b48a2691eb
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# Developpement-Front-End-moderne-avec-React-_TP3" 
